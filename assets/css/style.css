@@ -5,6 +5,62 @@
     height: auto;
     border: solid 5px dimgray;
 }
+body {
+    font-family: 'Alegreya', serif;
+    color: gray;
+    font-size: 24px;
+}
+.panel-title {
+    color: gray;
+    
+}
+
+a {
+    font-size: 30px;
+    background-color: transparent;
+    color:dimgray;
+}
+
+#contactBox{
+    display:flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+legend{
+    font-size: 30px;
+}
+.active{
+    background-color: transparent;
+    color: dimgray;
+}
+
+#nameHead{
+    float: right;
+    margin-right: 2%;
+    /* display: flex; */
+    /* justify-content: right; */
+}
+
+#portTag{
+    margin-left: 15px;
+}
+
+#imgOne {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 200px;
+    width: 200px;
+}
+
+#imageBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
 
 
 
